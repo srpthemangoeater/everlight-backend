@@ -14,10 +14,10 @@ https://www.youtube.com/watch?v=Uq7TkegTXRU
 ## How to Start Django?
 1. Start using my_venv
 ```
-my_evnv\Scripts\activate
+my_venv\Scripts\activate
 ```
 2. Start Django
 ```
 cd everlight_django
-py manage.py runsever
+py manage.py runserver
 ```
